@@ -1,0 +1,4 @@
+com/example/api/controller/CustomerControllerTest.class
+com/example/api/commons/Util.class
+com/example/api/ApiApplicationTests.class
+com/example/api/repository/CustomerRepositoryTest.class

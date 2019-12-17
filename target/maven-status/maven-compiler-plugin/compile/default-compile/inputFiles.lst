@@ -1,0 +1,9 @@
+/home/cnunesdi/git/tokio-test/src/main/java/com/example/api/config/exception/ErrorFormHandler.java
+/home/cnunesdi/git/tokio-test/src/main/java/com/example/api/ApiApplication.java
+/home/cnunesdi/git/tokio-test/src/main/java/com/example/api/dto/ErrorFormDTO.java
+/home/cnunesdi/git/tokio-test/src/main/java/com/example/api/dto/CustomerDTO.java
+/home/cnunesdi/git/tokio-test/src/main/java/com/example/api/domain/Customer.java
+/home/cnunesdi/git/tokio-test/src/main/java/com/example/api/service/CustomerService.java
+/home/cnunesdi/git/tokio-test/src/main/java/com/example/api/repository/CustomerRepository.java
+/home/cnunesdi/git/tokio-test/src/main/java/com/example/api/web/rest/CustomerController.java
+/home/cnunesdi/git/tokio-test/src/main/java/com/example/api/web/rest/form/CustomerForm.java
