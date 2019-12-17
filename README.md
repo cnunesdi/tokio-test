@@ -1,4 +1,4 @@
-https://github.com/leonardohenrique/tokio-test# Custumer Service
+# Custumer Service
 
 ### Requisitos
 
@@ -7,6 +7,6 @@ https://github.com/leonardohenrique/tokio-test# Custumer Service
 
 ### Rodando
 
-1. Clone o projeto: `https://github.com/stefanycos/Test-Java-Tokio.git`
+1. Clone o projeto: `https://github.com/leonardohenrique/tokio-test.git`
 1. Entre na pasta `tokio-test` e execute: `mvn spring-boot:run`
 1. Acesse: `http://localhost:8080/customers`
